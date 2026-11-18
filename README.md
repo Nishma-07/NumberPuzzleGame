@@ -96,4 +96,5 @@ NumberPuzzleGame/
 ## 👩‍💻 Author
 
 "Nishma BJ"
+"Dhruthi AS"
 
